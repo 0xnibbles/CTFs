@@ -1,3 +1,6 @@
+#include <stdio.h>
+#include <stdlib.h>
+//#include "fahne.h"
 
 void main(void) {
     int e = rand();
