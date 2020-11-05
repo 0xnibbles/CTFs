@@ -22,7 +22,8 @@ We have all the info, except *d*.
 
 we need to find *p* and *q*. These are prime numbers which make up ***n***.
 
-This is the tricky part of the challenge because > ***n*** = *p* * *q*
+This is the tricky part of the challenge because 
+> ***n*** = *p* * *q*
 
 Factorization is a hard problem to solve. In this case to speed things a llitle bit I used the tool [Fatorization Calculator](https://www.alpertron.com.ar/ECM.HTM).
 
