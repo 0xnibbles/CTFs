@@ -32,3 +32,5 @@ The output shows *p* and *q*.
 Now we can calculate the totient *λ(n)* and have *d* and decrypt the flag.
 
 [solve.py](https://github.com/s4nkx0k/CTFs/blob/main/NACTF%202020/Oligar's%20Tricky%20RSA/solve.py)
+
+Flag: `nactf{sn3aky_c1ph3r}`
