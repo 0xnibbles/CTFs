@@ -8,6 +8,7 @@ Since PIE is not enabled at all, we need to put in the instruction pointer the m
 We have a buffer of 112 chars, but to reach EIP, we need 120 (112 +8) because it is a 64-bit binary, and we need to overwrite EBP.
 
 112 - Buffer's size
+
 8 - size of EBP in memory is 8 bytes
 
 Payload = buffer's size + EBP size + give_flag address
